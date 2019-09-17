@@ -2,7 +2,7 @@ package com.jailton.louzada;
 
 import java.util.Arrays;
 
-public class Automation {
+public class CodingBat {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -1883,5 +1883,9 @@ specialEleven(24) → false*/
 		}
 		return false;
 	}
+	
+
+
+
 
 }
